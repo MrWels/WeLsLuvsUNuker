@@ -2,7 +2,6 @@ import os
 import random
 import time
 import asyncio
-import aiohttp
 from pystyle import Colors, Center, Colorate
 import sys
 import json
